@@ -16,3 +16,12 @@
 </p>
 
 ---
+
+## 🌐 Connect With Me
+
+  <a href="https://instagram.com/sandesh_o23">
+    <img
+      src="https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+      height="42">
+  </a>
