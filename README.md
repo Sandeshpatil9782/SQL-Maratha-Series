@@ -9,3 +9,10 @@
 "जसं जिजाऊंनी शिवबा घडवला, तसं SQL शिकताना आपण आपलं Technical अस्तित्व घडवूया."
 
 ## 🏰 SQL-Swarajya Goshti ⚔️
+---
+
+<p align='center'>
+<img src="SQL.png" alt='Swarajya-Goshti Banner' width='100%'>
+</p>
+
+---
