@@ -1,4 +1,4 @@
-# Day 4/16: CREATE TABLE ⚔️ | SQL Swarajya Goshti
+# Day 4: CREATE TABLE ⚔️ | SQL Swarajya Goshti
 
 ## 📜 Concept: स्वराज्याचं पहिलं खातं
 
