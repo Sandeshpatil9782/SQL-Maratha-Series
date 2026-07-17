@@ -1,4 +1,4 @@
-# Day 11/16: CONSTRAINT Day 3 - PRIMARY KEY ⚔️ | SQL Swarajya Goshti
+# Day 11: CONSTRAINT Day 3 - PRIMARY KEY ⚔️ | SQL Swarajya Goshti
 
 ## 📜 Concept: निर्णय घेताना योग्यच घ्या
 

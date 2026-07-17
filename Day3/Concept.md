@@ -1,4 +1,4 @@
-# Day 3/16: USE DATABASE ⚔️ | SQL Swarajya Goshti
+# Day 3: USE DATABASE ⚔️ | SQL Swarajya Goshti
 
 ## 📜 Concept: राज्यात प्रवेश, कारभार सुरू
 
