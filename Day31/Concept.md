@@ -79,6 +79,7 @@ HAVING AVG(Salary) > 50000;
 
 ---
 
+
 ### Q1. HAVING आणि WHERE मध्ये फरक काय?
 
 **Answer:**
